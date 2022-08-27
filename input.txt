@@ -1,0 +1,7 @@
+Hello World!
+
+This is a testfile. I just want to check wether the algorithm works properly and this message gets encrypted into the file "output.txt".
+
+This is a very long message, so we will also check wether salsa20_crypt can process messages longer than 64 bytes long.
+
+If this message can be read after decrypting then the program likely works as intended.
